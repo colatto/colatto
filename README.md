@@ -8,6 +8,8 @@ Formado em Tecnologia para Banco de Dados pela FIAP, atuo no desenvolvimento de 
 
 Acredito que a tecnologia pode transformar o mundo para melhor e atualmente meus estudos e esforços estão em fazer parte dessa transformação.
 
+*Conheça um pouco mais sobre meu trabalho na [R3](https://ruatrez.com)* 🌱
+
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=colatto&theme=black-ice&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=519)](https://ruatrez.com)
