@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=04D3F7&random=false&width=435&lines=Build+Your+Future!)](https://ruatrez.com)
 
-Olá, me chamo **Colatto**. 🧊
+### Olá, me chamo **Colatto**. 🧊
 
 Trabalhei por quase uma década no mercado digital, apaixonado por tecnologia, `lógica de programação` e pela aplicação da inteligência artificial em diferentes setores, especialmente na indústria da construção civil.
 
