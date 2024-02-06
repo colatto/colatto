@@ -20,11 +20,11 @@ Acredito que a tecnologia pode transformar o mundo para melhor e atualmente meus
 
 ### Especialidades
 
-![microsoftazure](https://img.shields.io/badge/azure_ai-blue?style=for-the-badge&logo=microsoftazure) ![openai](https://img.shields.io/badge/chatgpt-222?style=for-the-badge&logo=openai)
+[![microsoftazure](https://img.shields.io/badge/azure_ai-blue?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/ai-services/) [![openai](https://img.shields.io/badge/chatgpt-222?style=for-the-badge&logo=openai)](https://platform.openai.com/docs/introduction)
 
-![markdown](https://img.shields.io/badge/markdown-222?style=for-the-badge&logo=markdown) ![html](https://img.shields.io/badge/html-222?style=for-the-badge&logo=html5) ![python](https://img.shields.io/badge/python-222?style=for-the-badge&logo=python)
+[![markdown](https://img.shields.io/badge/markdown-222?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/) [![html](https://img.shields.io/badge/html-222?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/) [![python](https://img.shields.io/badge/python-222?style=for-the-badge&logo=python)](https://docs.python.org/3/)
 
-![github](https://img.shields.io/badge/github-222?style=for-the-badge&logo=github) ![power_platform](https://img.shields.io/badge/power_platform-blue?style=for-the-badge&logo=microsoft) ![powerbi](https://img.shields.io/badge/power_bi-222?style=for-the-badge&logo=powerbi) ![docker](https://img.shields.io/badge/docker-222?style=for-the-badge&logo=docker) ![mysql](https://img.shields.io/badge/mysql-222?style=for-the-badge&logo=mysql) 
+[![Git](https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) [![power_platform](https://img.shields.io/badge/power_platform-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/power-platform/) [![powerbi](https://img.shields.io/badge/power_bi-222?style=for-the-badge&logo=powerbi)](https://learn.microsoft.com/en-us/power-bi/) [![docker](https://img.shields.io/badge/docker-222?style=for-the-badge&logo=docker)](https://docs.docker.com/) [![mysql](https://img.shields.io/badge/mysql-222?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
 
 
 
