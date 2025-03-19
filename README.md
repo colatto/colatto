@@ -16,7 +16,7 @@ Acredito que a tecnologia pode transformar o mundo para melhor e atualmente meus
 
 ### Meus contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/colatto/) [![Email](https://img.shields.io/badge/email-222?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:hello@ruatrez.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/colatto/) [![Email](https://img.shields.io/badge/email-222?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:colatto@ruatrez.com)
 
 ### Especialidades
 
