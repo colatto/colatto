@@ -4,7 +4,7 @@
 
 Trabalhei por quase uma década no mercado digital, apaixonado por tecnologia, `lógica de programação` e pela aplicação da inteligência artificial em diferentes setores, especialmente na indústria da construção civil.
 
-Formado em Tecnologia para Banco de Dados pela FIAP, atuo no desenvolvimento de soluções inovadoras com emprego de IA, explorando as mais variadas possibilidades que ela oferece, desde a otimização de processos até a criação de novos produtos e serviços.
+Formado em Tecnologia para Banco de Dados pela FIAP e pós-graduando em Computação - especialização em Engenharia de Software pela Universidade Federal de São Carlos - UFSCAR, atuo no desenvolvimento de soluções inovadoras com emprego de IA, explorando as mais variadas possibilidades que ela oferece, desde a otimização de processos até a criação de novos produtos e serviços.
 
 Acredito que a tecnologia pode transformar o mundo para melhor e atualmente meus estudos e esforços estão em fazer parte dessa transformação.
 
