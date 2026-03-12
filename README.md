@@ -2,11 +2,31 @@
 
 ### Olá, me chamo **Colatto**. 🧊
 
-Trabalhei por quase uma década no mercado digital, apaixonado por tecnologia, `lógica de programação` e pela aplicação da inteligência artificial em diferentes setores, especialmente na indústria da construção civil.
+Sou tecnólogo em **Banco de Dados pela FIAP** e atualmente **pós-graduando em Computação (especialização em Engenharia de Software) pela Universidade Federal de São Carlos — UFSCar**. Atuo na pesquisa e desenvolvimento de soluções baseadas em inteligência artificial aplicadas a problemas reais de engenharia e aplicações web.  
+Com mais de uma década de experiência no mercado digital, atualmente meu foco está no **desenvolvimento de software e aplicação prática de IA**, especialmente em contextos relacionados à **indústria da construção civil**.
 
-Formado em Tecnologia para Banco de Dados pela FIAP e pós-graduando em Computação - especialização em Engenharia de Software pela Universidade Federal de São Carlos - UFSCAR, atuo no desenvolvimento de soluções inovadoras com emprego de IA, explorando as mais variadas possibilidades que ela oferece, desde a otimização de processos até a criação de novos produtos e serviços.
+## Linhas de pesquisa
 
-Acredito que a tecnologia pode transformar o mundo para melhor e atualmente meus estudos e esforços estão em fazer parte dessa transformação.
+- Aplicação de **inteligência artificial em processos da construção civil**
+- Desenvolvimento de **aplicações web orientadas a dados**
+- Uso de **IA para otimização de processos e criação de novos produtos SaaS**
+- Estratégias para **adoção prática de modelos de IA em mercados emergentes**
+
+## Stack técnica
+
+- **Programação e lógica computacional**
+- Desenvolvimento de **sistemas orientados a dados**
+- Integração de **inteligência artificial em aplicações de software**
+- Ferramentas e práticas associadas à **engenharia de software**
+
+## Colaborações e projetos em destaque
+
+- Desenvolvimento de **soluções baseadas em IA aplicadas ao setor da construção civil**, com foco na otimização de processos e suporte à tomada de decisão.
+- Pesquisa aplicada sobre **como traduzir capacidades de IA de fronteira em soluções acessíveis**, com rápida adoção por organizações e mercados emergentes.
+
+
+Estou aberto a **colaborações em pesquisa, desenvolvimento de software e projetos aplicados envolvendo inteligência artificial e engenharia de software**.
+
 
 *Conheça um pouco mais sobre meu trabalho na [R3](https://ruatrez.com)* 🌱
 
